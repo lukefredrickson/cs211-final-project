@@ -1,6 +1,8 @@
 # CS 211 Final Project Writeup
 ### Luke Fredrickson
-#### December 1, 2020
+#### December 2, 2020
+
+[GitHub Repository](https://github.com/lukefredrickson/cs211-final-project)
 
 ## Problem Statement
 I wanted to examine the [NYC Citywide Payroll Data (Fiscal Year)](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e) dataset from https://data.cityofnewyork.us. The dataset is massive, so I trimmed it down to just the 2020 data, which still contains 590,210 rows (each row corresponds to one person), and data for 156 agencies throughout the city.
